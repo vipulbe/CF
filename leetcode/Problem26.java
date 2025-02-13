@@ -1,6 +1,6 @@
 package leetcode;
 // Remove Duplicates from Sorted Array
-
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 import java.util.Scanner;
 import java.util.stream.Stream;
 public class Problem26 {
