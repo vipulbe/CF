@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.day_1_arrays;
 
 // Problem 31: Next permutation 
 // https://leetcode.com/problems/next-permutation/description/

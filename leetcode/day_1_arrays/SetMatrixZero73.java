@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.day_1_arrays;
 // Problem 73: https://leetcode.com/problems/set-matrix-zeroes/description/
 
 import java.util.Map;
